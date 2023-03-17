@@ -1,1 +1,1 @@
-Meu nome é Ricardo Henrique, tenho 23 anos, sou um estudante de programação e aqui guardo meus projetos de estudo.
+Meu nome é Ricardo Henrique, tenho 25 anos, hoje atuo como desenvolvedor front-end com mais ênfaze em lojas e-commerce na plataforma VTEX.
